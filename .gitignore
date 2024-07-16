@@ -1,0 +1,13 @@
+# gitignore
+**/__pycache__/
+*.pyc
+data
+weights
+.vscode
+# *.npy
+debug/
+*list.txt
+data_preprocessing/nuscenes_runtest/*
+runlist_tmp.txt
+SKC_*.npy
+SSTF_*.npy
